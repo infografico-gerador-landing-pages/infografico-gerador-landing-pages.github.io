@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05a3c2a1.css",
+    "main.js": "/static/js/main.84a8bb5d.js",
+    "static/media/infografico.pdf": "/static/media/infografico.da957f0880d2a680e1ce.pdf",
+    "static/media/img-laptop.jpg": "/static/media/img-laptop.df4ddf3f0c9a91a099c7.jpg",
+    "static/media/Roboto-BlackItalic.ttf": "/static/media/Roboto-BlackItalic.fd62a10743bd89a3d97c.ttf",
+    "static/media/Roboto-MediumItalic.ttf": "/static/media/Roboto-MediumItalic.82736aaa11c64709055f.ttf",
+    "static/media/Roboto-BoldItalic.ttf": "/static/media/Roboto-BoldItalic.87d61cea6fe1d235d4a8.ttf",
+    "static/media/Roboto-Italic.ttf": "/static/media/Roboto-Italic.87f3afe16a8c3c370634.ttf",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Black.ttf": "/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/logo.png": "/static/media/logo.7792b8a3f17bee23d7d3.png",
+    "static/media/cozy-caps.ttf": "/static/media/cozy-caps.16fd780d308450df6e83.ttf",
+    "static/media/notification.svg?s3g3t9": "/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/index.html",
+    "main.05a3c2a1.css.map": "/static/css/main.05a3c2a1.css.map",
+    "main.84a8bb5d.js.map": "/static/js/main.84a8bb5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a3c2a1.css",
+    "static/js/main.84a8bb5d.js"
+  ]
+}
